@@ -92,7 +92,7 @@ Select a cryptocurrency and fiat currency (e.g., BTC/USD, ETH/EUR) directly from
 ### 📁 Option 2: Upload Custom CSV
 Upload a `.csv` file in the following format:
 
-| Datum | Cena |
+| Date | Cena |
 |--------|------|
 | 2020-01-01 | 7000.25 |
 | 2020-01-02 | 7100.50 |
