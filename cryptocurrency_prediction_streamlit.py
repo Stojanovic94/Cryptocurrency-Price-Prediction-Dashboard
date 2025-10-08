@@ -291,7 +291,7 @@ def load_csv_data(uploaded_file):
             return pd.DataFrame()
         
         # Rename columns to expected names
-        df = df.rename(columns={'Datum': 'ds', 'Price': 'y'})
+        df = df.rename(columns={'Date': 'ds', 'Price': 'y'})
         
         # Convert date column to datetime
         df['ds'] = pd.to_datetime(df['ds'], errors='coerce')
