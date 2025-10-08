@@ -9,6 +9,7 @@
 An advanced and interactive **Streamlit-based dashboard** for forecasting cryptocurrency prices using a combination of **statistical**, **machine learning**, and **deep learning** models — including **ARIMA**, **Holt-Winters**, **Prophet**, **LSTM (PyTorch)**, **ETS**, and **Theta**.
 
 This project is designed for **data scientists**, **students**, and **enthusiasts** who want to explore **time series forecasting**, **model comparison**, and **visual analysis** of cryptocurrency data.  
+![](image.PNG)
 
 ---
 
