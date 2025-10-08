@@ -1,0 +1,11 @@
+autots
+matplotlib
+numpy
+pandas
+prophet
+psutil
+scikit-learn
+statsmodels
+streamlit
+torch
+yfinance
